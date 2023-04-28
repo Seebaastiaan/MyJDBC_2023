@@ -18,11 +18,11 @@
         <form>
         <div class="ms-5 me-5">
   <label for="exampleFormControlInput1" class="form-label">Rol</label>
-  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Rol">
+  <input type="email" class="form-control" id="exampleFormControlInput1 " name ="rol" placeholder="Rol">
 </div>
         <div class="ms-5 me-5">
   <label for="exampleFormControlInput1" class="form-label">Desripción</label>
-  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Descripción">
+  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Descripción" name ="descripcion">
 </div>
           </form>
 <input class="btn btn-primary ms-5 me-5 mt-5" type="submit" value="Enviar">
